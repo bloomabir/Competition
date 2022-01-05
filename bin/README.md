@@ -6,7 +6,7 @@
 # Introduction au projet et ses objectifs
 
 - Travailler en binôme en suivant les consignes et les éxigences du projet (cahier de charge).
-- Les objectifs de ce projet sont d'une part mettre en pratique le <span style="color:blue"><ins>processus de TDD</ins></span>, l'utilisation des <span style="color:blue"><ins>Mocks</ins></span> dans les Tests et les Designes Patterns qu'on a mis en pratique et utilisé pour la version 3 de ce projet. 
+- Les objectifs de ce projet sont d'une part mettre en pratique le <span style="color:blue"><ins>processus de TDD</ins></span>, l'utilisation des <span style="color:blue"><ins>Mocks</ins></span> dans les Tests.  
  - Pour la réalisation de ce projet et son accomplissement on s'est basé sur ce qui a été presenté pendant les CM, les idées que notre prof de TD nous à donné en classe mais surtout sur des sites et documents qu'on a trouvé sur Internet. Voici quelques liens des resources qui nous ont aidé :
 
  - - [Les Mocks](https://www.jmdoudoux.fr/java/dej/chap-objets-mock.htm)  
@@ -14,6 +14,16 @@
  - - [TDD](https://www.youtube.com/watch?v=6wE6VhF_uNo&ab_channel=DemandeàTonton) (YouTube)
 
 # Rubrique ‘HowTo’ :
+
+## Comment récuperer le dépôt
+
+1. Se placer dans le Terminal.
+2. Taper la commande suivante :
+   
+```
+% git clone https://gitlab-etu.fil.univ-lille1.fr/bezzazi/coo-2021-g5-bezzazi-elkamili.git
+```
+
 
 ## Comment générer la documentation
 
